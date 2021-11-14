@@ -12,5 +12,6 @@ public class GIt {
         System.out.println("git");
         System.out.println("master-git");
         System.out.println("hotfix-git");
+        System.out.println("pull-git");
     }
 }
